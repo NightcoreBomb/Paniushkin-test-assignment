@@ -13,6 +13,7 @@ import ua.kpi.comsys.test2.NumberList;
  * - List Type: Circular Doubly Linked List
  * - Base: Ternary (3)
  * - Operation: Addition
+ * - Group^ IO-34
  * - Change Scale: Octal (8)
  *
  * @author Paniushkin Vladislav (Variant 3416)
